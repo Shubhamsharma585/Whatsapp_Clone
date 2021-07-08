@@ -1,0 +1,14 @@
+
+
+.intro_main
+{
+    background-color: #f7f9f9;
+    text-align: center;
+    flex: 1;
+}
+
+.intro_tag
+{
+    margin-top: 5%;
+    color: rgb(25, 128, 15);
+}

@@ -1,0 +1,153 @@
+
+.main__chat
+{
+    background-color: whitesmoke;
+    height: 700px;
+    flex: 1;
+} 
+
+.chats_header
+{
+    border-bottom: 1px solid lightgray;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    padding: 20px;
+    padding-bottom: 0px;
+}
+.chats_headerinfo
+{
+    flex: 1;
+    border: 0px solid black;
+    float: left;
+    padding-left: 20px;
+    text-align: left;
+}
+
+.chats_headerinfo > p
+{
+    color: grey;
+    font-size: 12px;
+}
+.chats_headerinfo > h3
+{
+    color: rgb(48, 48, 48);
+    font-size: 16px;
+}
+
+.chats_headerright
+{
+   display: flex;
+   justify-content: space-between;
+   min-width: 100px;
+   margin-top: 0px;
+   height: 50px;
+}
+
+.chats_body
+{
+    border: 0px solid black;
+    background-image: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png");
+    height: 80%;
+    background-repeat: repeat;
+    background-position: center;
+    overflow: scroll;
+}
+.chat_message
+{
+   position: relative;
+   background-color: whitesmoke;
+   padding: 10px;
+   margin: 20px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border-radius: 10px;
+   width: fit-content;
+   max-width: 400px;
+}
+
+.chat_receiver
+{
+    margin-left: auto;
+    background-color: #dcf8c6;
+}
+
+
+.chat_name1
+{
+   position: absolute;
+   border: 0px solid black;
+   color: rgb(55, 55, 55);
+   top: -25px;
+   left: 0px;
+   width: fit-content;
+   font-weight: 700;
+   font-size: 16px;
+}
+
+.chat_timestamp
+{
+   margin-left: 10px; 
+   font-size: 12px;
+   color: grey;
+   /* position: relative;
+   top: 30px;  */
+}
+
+
+.chats_footer
+{
+    border-top: 1px solid rgb(172, 172, 172);
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    padding-right: 10px;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.chats_footer > .MuiSvgIcon-root
+{
+   color: grey;
+   margin: 0px;
+}
+
+#send_inp 
+{
+    flex: 0.96;
+    height: 30px;
+    /* width: 200px; */
+    margin-left: -10px;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+}
+
+form
+{
+    border: 0px solid black;
+    flex: 0.96;   
+    text-align: left;
+}
+
+form > input
+{
+    flex: 1;
+    width: 98%;
+    padding-left: 25px;
+    padding-right: 15px;
+    margin-right: 20px;
+    font-size: 16px;
+    caret-color: red;
+}
+
+form > input:focus
+{
+   outline: none;
+}
+
+form > button
+{
+     display: none;
+}
+

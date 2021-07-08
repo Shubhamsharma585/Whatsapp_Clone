@@ -1,0 +1,22 @@
+
+.main__addnew
+{
+    border-bottom: 1px solid rgb(222, 222, 222);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 40px;
+    padding: 20px 35px 10px 0px;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.main__addnew:hover
+{
+   background-color: rgb(208, 208, 208);
+   cursor: pointer;
+}

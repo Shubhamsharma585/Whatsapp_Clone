@@ -1,0 +1,104 @@
+
+
+.main__sidebar
+{
+    height: 700px;
+    width: 350px;
+}
+
+.sidebar__headertop
+{
+    border-right: 2px rgb(215, 215, 215) solid;
+    background-color: whitesmoke;
+    height: 80px;
+    width: 99.5%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.sidebar__header__left
+{
+   margin: 20px 30px;
+   width: 18%;
+}
+
+.sidebar__header__right
+{
+   margin: 20px 0px 20px -10px;
+   padding-right: 0px;
+   width: 60%;
+   float: right;
+}
+
+@media screen and (min-width: 450px) {
+    .sidebar__header__right {
+     margin: 20px 0px 20px -10px;
+     padding-right: 0px;
+     width: 65%;
+     float: right;
+     }
+   }
+
+
+@media screen and (min-width: 800px) {
+   .sidebar__header__right {
+    margin: 20px 0px 20px 30px;
+    padding-right: 0px;
+    width: 55%;
+    float: right;
+    }
+  }
+
+@media screen and (min-width: 1000px) {
+    .sidebar__header__right {
+     margin: 20px 0px 20px 60px;
+     padding-right: 0px;
+     width: 55%;
+     float: right;
+     }
+   }
+
+
+.sidebar__search
+{
+    background-color: rgb(238, 238, 238);
+    padding-top: 15px;
+    padding-bottom: 5px;
+    height: 50px;
+    width: 100%;
+}
+.sidebar__search_cont
+{
+    background-color: white;
+    margin: auto; 
+    padding-left: 30px; 
+    border-radius: 25px;
+    width: 80%;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.search_inp
+{
+    height: 30px;
+    width: 80%;
+    margin-top: 0px;
+    border: 0px solid grey;
+    padding-left: 10px;
+}
+
+.search_inp:focus
+{
+   outline: none;
+}
+
+
+.sidebar__chats
+{
+    border-right: 1px lightgray solid;
+    height: 78%;
+    width: 99.7%;
+    background-color: whitesmoke;
+}
