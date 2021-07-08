@@ -14,12 +14,14 @@ In this project we have used the following tech stack.
 
 ## Libraries Used 🌟
 
+
 1. emoji-mart: [emoji-mart] https://www.npmjs.com/package/emoji-mart
 2. Fonts: [Google Fonts](https://fonts.google.com/)
 3. Icons:[Awesome Icon](https://www.w3schools.com/icons/fontawesome5_intro.asp)
 4. Material UI: [Material UI](https://material-ui.com/)
 5. Firebase: [Firebase](https://firebase.google.com/)
 6. Context: [ContextAPI] (https://reactjs.org/docs/context.html)
+
 
 
 You can install the libraries using the "**npm install**" command
@@ -43,6 +45,7 @@ You can also take the glimpse of our Project,just follow the below steps:
 
 ## Snapshots 📷
 
+
 1. Login Page
 ![Whatsapp](https://github.com/Shubhamsharma585/Whatsapp_Clone/blobmain/public/Images/login.png)
 
@@ -54,6 +57,7 @@ You can also take the glimpse of our Project,just follow the below steps:
 
 3. Chats Page
 ![Whatsapp](https://github.com/Shubhamsharma585/Whatsapp_Clone/blobmain/public/Images/chats.png)
+=======
 
 
 <br>
