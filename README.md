@@ -14,13 +14,14 @@ In this project we have used the following tech stack.
 
 ## Libraries Used 🌟
 
-1. Custom UI: [Custom UI](https://www.npmjs.com/package/@shubhamsharma585/custom-ui-shinemasai)
-2. emoji-mart: [emoji-mart] https://www.npmjs.com/package/emoji-mart
-3. Fonts: [Google Fonts](https://fonts.google.com/)
-4. Icons:[Awesome Icon](https://www.w3schools.com/icons/fontawesome5_intro.asp)
-5. Material UI: [Material UI](https://material-ui.com/)
-6. Firebase: [Firebase](https://firebase.google.com/)
-7. Context: [ContextAPI] (https://reactjs.org/docs/context.html)
+
+1. emoji-mart: [emoji-mart] https://www.npmjs.com/package/emoji-mart
+2. Fonts: [Google Fonts](https://fonts.google.com/)
+3. Icons:[Awesome Icon](https://www.w3schools.com/icons/fontawesome5_intro.asp)
+4. Material UI: [Material UI](https://material-ui.com/)
+5. Firebase: [Firebase](https://firebase.google.com/)
+6. Context: [ContextAPI] (https://reactjs.org/docs/context.html)
+
 
 
 You can install the libraries using the "**npm install**" command
@@ -44,9 +45,19 @@ You can also take the glimpse of our Project,just follow the below steps:
 
 ## Snapshots 📷
 
-1. Shine Page
 
-   ![Whatsapp](https://github.com/Shubhamsharma585/Shine-masai/blob/main/public/Snapshots/landingPage.jpg)
+1. Login Page
+![Whatsapp](https://github.com/Shubhamsharma585/Whatsapp_Clone/blobmain/public/Images/login.png)
+
+
+2. Home Page
+
+   ![Whatsapp](https://github.com/Shubhamsharma585/Whatsapp_Clone/blob/main/public/Images/home.png)
+
+
+3. Chats Page
+![Whatsapp](https://github.com/Shubhamsharma585/Whatsapp_Clone/blobmain/public/Images/chats.png)
+=======
 
 
 <br>
