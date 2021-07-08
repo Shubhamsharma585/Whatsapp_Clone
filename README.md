@@ -47,7 +47,7 @@ You can also take the glimpse of our Project,just follow the below steps:
 
 
 1. Login Page
-![Whatsapp](https://github.com/Shubhamsharma585/Whatsapp_Clone/blobmain/public/Images/login.png)
+![Whatsapp](https://github.com/Shubhamsharma585/Whatsapp_Clone/blob/main/public/Images/login.png)
 
 
 2. Home Page
@@ -56,7 +56,7 @@ You can also take the glimpse of our Project,just follow the below steps:
 
 
 3. Chats Page
-![Whatsapp](https://github.com/Shubhamsharma585/Whatsapp_Clone/blobmain/public/Images/chats.png)
+![Whatsapp](https://github.com/Shubhamsharma585/Whatsapp_Clone/blob/main/public/Images/chats.png)
 =======
 
 
